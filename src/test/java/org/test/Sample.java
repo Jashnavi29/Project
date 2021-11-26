@@ -18,6 +18,7 @@ public class Sample {
 	@Test
 	private void testA1() {
 	    System.out.println("Test A1");
+	    System.out.println("test a111");
 	}
 	@AfterMethod
 	private void afterMethod() {
@@ -26,6 +27,7 @@ public class Sample {
 	@Test
 	private void testA2() {
 	    System.out.println("Test A2");
+	    System.out.println("test a222");
 	}
 
 	@AfterClass
