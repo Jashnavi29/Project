@@ -18,7 +18,10 @@ public class Sample {
 	@Test
 	private void testA1() {
 	    System.out.println("Test A1");
+        System.out.println("test24545");
 	    System.out.println("test a333");
+	    System.out.println("test a1221");
+
 	}
 	@AfterMethod
 	private void afterMethod() {
@@ -28,6 +31,10 @@ public class Sample {
 	private void testA2() {
 	    System.out.println("Test A2");
 	    System.out.println("test 4444");
+
+	    System.out.println("test a222");
+	    System.out.println("test1243r43t");
+
 	}
 
 	@AfterClass
